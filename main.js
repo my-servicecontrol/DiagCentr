@@ -1,5 +1,5 @@
 var myApp =
-  "https://script.google.com/macros/s/AKfycbzagNmxEtzmnxZEsJQdBgYPuUUqKVFhWgdhZ6XHNc4oeKLbrWUwmu2GqfChxLz7hXI8/exec";
+  "https://script.google.com/macros/s/AKfycby4PZjWJu3MrM_LdLLTpto1-4BfBhOZeIele1qG8TjFaMa9t_mE26nkBDNZvz3I4u4E/exec";
 var tasks = "1cQKPnQXl4G5X0kmhumB5eHIBRBmqyfTFxOcMMkYnY6c";
 var sName = "FARRE";
 //var eDate = "Активно до: 25.09.2025";
